@@ -17,7 +17,9 @@
             color: white;
         }
 
-
+.row {
+    background-color:#fcf2eb;
+}
 
         .col-md-8 {
             align-items: center;
