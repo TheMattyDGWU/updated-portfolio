@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <!-- Bootstrap CDNs -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+        integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="assets/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+        integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"
+        integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"
+        crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"
+        integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"
+        crossorigin="anonymous"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Matt's Profile Page</title>
+</head>
+
+<body>
+    <!-- _________________________________ NAVBAR __________________________________ -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark static-top">
+        <div class="container">
+            <!-- Left Side -->
+            <a class="navbar-brand" href="index.html">
+                <h2>Matthew Daniels</h2>
+            </a>
+            <!-- LinkedIn Button -->
+            <a href="www.linkedin.com/in/themattyd" class="fa fa-linkedin"></a>
+            <!-- Right Side -->
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive"
+                aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <nav class="collapse navbar-collapse" id="navbarResponsive">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item active">
+                        <button type="button" class="btn btn-danger">Home
+                            <span class="sr-only">(current)</span>
+                        </button>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="portfolio.html">Portfolio</a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </nav>
+
+    <!-- __________________________________ CONTAINER __________________________________ -->
+    <div class="container">
+
+        <!-- AboutMe Heading -->
+        <h1 class="my-4">About Me...</h1>
+
+        <!-- AboutMe Item Rows -->
+        <div class="row">
+            <!-- Profile Picture -->
+            <div class="col-md-8">
+                <img class="img-fluid" src="assets/img/profilephoto.jpg" alt="My Profile Picture">
+            </div>
+            <!-- Aside -->
+            <main class="col-md-4">
+                <h3 class="my-4">Who I Am</h3>
+                <p>After college I joined the Navy - which led to adventures around the world as both an Air Traffic
+                    Controller and Aviator... with some experiences thrown in that I never would have imagined. Now that
+                    it's time to
+                    leave military life behind, I've decided to dive into Full Stack Web Development - maybe even as a
+                    digital nomad around
+                    the world. It's time for the next New Adventure!</p>
+                <h3 class="my-4">What I Do</h3>
+                <ul>
+                    <li>Full Stack Web Development</li>
+                    <li>Naval Aviation</li>
+                    <li>Air Traffic Control</li>
+                    <li>Fast Cars / Motorcycles / Book Lover!</li>
+                </ul>
+            </main>
+        </div>
+    </div>
+
+<!-- ______________________________ FOOTER _________________________ -->
+<footer class="footer">
+    <div class="container" style="text-align: center">
+        Copyright &copy;
+        <script>
+            document.write(new Date().getFullYear());
+        </script>
+        | Rancho Relaxo Productions |
+        <a href="https://mattyd.info" target="_blank">mattyd.info</a>
+    </div>
+</footer>
+
+</body>
+
+</html>
