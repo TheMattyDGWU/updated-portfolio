@@ -1,3 +1,4 @@
+        /* Main Body styling */
         body {
             margin-bottom: 50px;
             background-color: #fbfbf8;
@@ -22,7 +23,7 @@
         .row {
             background-color:#fcf2eb;
         }
-
+        
         .card {
                 margin: 0 auto;
                 float: none;
