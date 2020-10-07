@@ -2,7 +2,8 @@
             margin-bottom: 50px;
             background-color: #fbfbf8;
         }
-
+        
+        /* Social Media Buttons */
         .fa {
             padding: 10px;
             font-size: 30px;
@@ -17,12 +18,9 @@
             color: white;
         }
 
-.row {
-    background-color:#fcf2eb;
-}
-
-        .col-md-8 {
-            align-items: center;
+        /* Container Styling */
+        .row {
+            background-color:#fcf2eb;
         }
 
         .card {
