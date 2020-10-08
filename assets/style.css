@@ -15,11 +15,13 @@
         }
 
         .fa-github {
+            border-radius: 50%;
             background: green;
             color: white;
         }
 
         .fa-linkedin {
+            border-radius: 50%;
             background: #007bb5;
             color: white;
         }
