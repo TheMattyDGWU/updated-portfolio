@@ -9,7 +9,7 @@
 
 This in an updated personal portfolio which includes social media links, a resume, and examples of both group and individual projects.
 
-![updated portfolio](https://user-images.githubusercontent.com/66084799/95402688-54004d80-08de-11eb-83ec-e779790df7cb.png)
+![portfolio](https://user-images.githubusercontent.com/66084799/99284543-625a5700-2804-11eb-8112-ca50e0dd6400.png)
 <br>
 <br>
 <br>
