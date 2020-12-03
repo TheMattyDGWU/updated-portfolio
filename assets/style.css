@@ -26,6 +26,10 @@
             color: white;
         }
         /* Container Styling */
+
+        .hidden {
+            display: none;
+        }
         
         .row {
             background-color: #fcf2eb;
