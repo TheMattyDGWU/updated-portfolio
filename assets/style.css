@@ -1,11 +1,10 @@
-        /* Main Body styling */
-        
+        /* Main Body styling */   
         body {
             margin-bottom: 50px;
             background-color: #fbfbf8;
         }
+
         /* Social Media Buttons */
-        
         .fa {
             padding: 10px;
             font-size: 30px;
@@ -25,8 +24,8 @@
             background: #007bb5;
             color: white;
         }
-        /* Container Styling */
 
+        /* Container Styling */
         .hidden {
             display: none;
         }
@@ -48,8 +47,8 @@
         .carousel-item {
             margin-bottom: 10px;
         }
+
         /* Footer */
-        
         .footer {
             position: fixed;
             padding: 0.8rem;

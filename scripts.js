@@ -6,7 +6,6 @@ $("document").ready(function () {
           $("#indexContainer").removeClass("hidden");
           $("#portfolioContainer").addClass("hidden");
           $("#interestsContainer").addClass("hidden");
-
      });
 
      $("#portfolioButton").on("click", function () {
@@ -14,7 +13,6 @@ $("document").ready(function () {
           $("#indexContainer").addClass("hidden");
           $("#portfolioContainer").removeClass("hidden");
           $("#interestsContainer").addClass("hidden");
-
      });
 
      $("#interestsButton").on("click", function () {
@@ -22,7 +20,6 @@ $("document").ready(function () {
           $("#indexContainer").addClass("hidden");
           $("#portfolioContainer").addClass("hidden");
           $("#interestsContainer").removeClass("hidden");
-
      });
 
 });
