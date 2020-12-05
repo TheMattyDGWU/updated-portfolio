@@ -1,4 +1,4 @@
-# Personal Portfolio  
+# Personal Portfolio :briefcase:  
 
 [![GitHub issues](https://img.shields.io/github/issues/TheyCallMeMattyD/updated-portfolio?style=for-the-badge)](https://github.com/TheyCallMeMattyD/updated-portfolio/issues) &nbsp;
 [![GitHub stars](https://img.shields.io/github/stars/TheyCallMeMattyD/updated-portfolio?style=for-the-badge)](https://github.com/TheyCallMeMattyD/updated-portfolio/stargazers) &nbsp;
