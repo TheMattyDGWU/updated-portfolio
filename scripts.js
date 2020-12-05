@@ -11,7 +11,7 @@ $("document").ready(function () {
      });
 
      $("#portfolioButton").on("click", function () {
-          console.log("Recipe search button has been clicked");
+          console.log("portfolio button has been clicked");
 
           $("#indexContainer").addClass("hidden");
           $("#portfolioContainer").removeClass("hidden");
@@ -20,7 +20,7 @@ $("document").ready(function () {
      });
 
      $("#interestsButton").on("click", function () {
-          console.log("wine pairing button has been clicked");
+          console.log("interests button has been clicked");
 
           $("#indexContainer").addClass("hidden");
           $("#portfolioContainer").addClass("hidden");
