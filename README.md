@@ -10,3 +10,4 @@
 This in an updated personal portfolio which includes social media links, a resume, and examples of both group and individual projects.
 
 
+![Screen Shot 2020-12-04 at 8 37 55 PM](https://user-images.githubusercontent.com/66084799/101229960-c0929100-3670-11eb-862f-c18f75559f3d.png)
